@@ -1,0 +1,6 @@
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\bin\Debug\HostProcess.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\bin\Debug\HostProcess.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\bin\Debug\HostProcess.pdb
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\obj\Debug\HostProcess.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\obj\Debug\HostProcess.pdb
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\HostProcess\obj\Debug\HostProcess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\temp\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\TEMP\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\TEMP\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\TEMP\Desktop\Library\Library\obj\Debug\Library.pdb

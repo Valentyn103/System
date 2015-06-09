@@ -1,0 +1,5 @@
+C:\Users\TEMP\Desktop\DeadLock\MyDeadLock1\bin\Debug\MyDeadLock1.exe.config
+C:\Users\TEMP\Desktop\DeadLock\MyDeadLock1\bin\Debug\MyDeadLock1.exe
+C:\Users\TEMP\Desktop\DeadLock\MyDeadLock1\bin\Debug\MyDeadLock1.pdb
+C:\Users\TEMP\Desktop\DeadLock\MyDeadLock1\obj\Debug\MyDeadLock1.exe
+C:\Users\TEMP\Desktop\DeadLock\MyDeadLock1\obj\Debug\MyDeadLock1.pdb

@@ -1,0 +1,12 @@
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\bin\Debug\Result.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\bin\Debug\Result.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\bin\Debug\Result.pdb
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\MainWindow.baml
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\MainWindow.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\App.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result_MarkupCompile.cache
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result.g.resources
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result.Properties.Resources.resources
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Result\obj\Debug\Result.pdb

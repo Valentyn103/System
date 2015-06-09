@@ -1,0 +1,6 @@
+C:\Users\valik\Desktop\TPL\TaskArray\bin\Debug\TaskArray.exe.config
+C:\Users\valik\Desktop\TPL\TaskArray\obj\Debug\TaskArray.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\TPL\TaskArray\bin\Debug\TaskArray.exe
+C:\Users\valik\Desktop\TPL\TaskArray\bin\Debug\TaskArray.pdb
+C:\Users\valik\Desktop\TPL\TaskArray\obj\Debug\TaskArray.exe
+C:\Users\valik\Desktop\TPL\TaskArray\obj\Debug\TaskArray.pdb

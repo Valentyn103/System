@@ -1,0 +1,9 @@
+C:\Users\Win8\Desktop\ShowString\ShowString\bin\Debug\ShowString.exe.config
+C:\Users\Win8\Desktop\ShowString\ShowString\bin\Debug\ShowString.exe
+C:\Users\Win8\Desktop\ShowString\ShowString\bin\Debug\ShowString.pdb
+C:\Users\Win8\Desktop\ShowString\ShowString\obj\Debug\ShowString.csprojResolveAssemblyReference.cache
+C:\Users\Win8\Desktop\ShowString\ShowString\obj\Debug\ShowString.exe
+C:\Users\Win8\Desktop\ShowString\ShowString\obj\Debug\ShowString.pdb
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\ShowString\ShowString\bin\Debug\ShowString.exe.config
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\ShowString\ShowString\obj\Debug\ShowString.exe
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\ShowString\ShowString\obj\Debug\ShowString.pdb

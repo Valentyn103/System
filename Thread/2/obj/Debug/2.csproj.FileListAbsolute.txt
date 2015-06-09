@@ -1,0 +1,8 @@
+c:\users\temp\documents\visual studio 2012\Projects\ConsoleApplication1\2\bin\Debug\2.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\ConsoleApplication1\2\bin\Debug\2.exe
+c:\users\temp\documents\visual studio 2012\Projects\ConsoleApplication1\2\bin\Debug\2.pdb
+c:\users\temp\documents\visual studio 2012\Projects\ConsoleApplication1\2\obj\Debug\2.exe
+c:\users\temp\documents\visual studio 2012\Projects\ConsoleApplication1\2\obj\Debug\2.pdb
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\Thread\2\bin\Debug\2.exe.config
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\Thread\2\obj\Debug\2.exe
+C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\Thread\2\obj\Debug\2.pdb

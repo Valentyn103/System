@@ -1,0 +1,6 @@
+C:\Users\valik\Desktop\TPL\avr_withparallel\bin\Debug\avr_withparallel.exe.config
+C:\Users\valik\Desktop\TPL\avr_withparallel\bin\Debug\avr_withparallel.exe
+C:\Users\valik\Desktop\TPL\avr_withparallel\bin\Debug\avr_withparallel.pdb
+C:\Users\valik\Desktop\TPL\avr_withparallel\obj\Debug\avr_withparallel.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\TPL\avr_withparallel\obj\Debug\avr_withparallel.exe
+C:\Users\valik\Desktop\TPL\avr_withparallel\obj\Debug\avr_withparallel.pdb

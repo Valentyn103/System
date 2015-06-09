@@ -1,0 +1,4 @@
+c:\Users\TEMP\documents\visual studio 2012\Projects\Library\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\Users\TEMP\documents\visual studio 2012\Projects\Library\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\Users\TEMP\documents\visual studio 2012\Projects\Library\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\Users\TEMP\documents\visual studio 2012\Projects\Library\ClassLibrary\obj\Debug\ClassLibrary.pdb

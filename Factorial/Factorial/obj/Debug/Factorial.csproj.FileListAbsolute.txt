@@ -1,0 +1,13 @@
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\MainWindow.baml
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\MainWindow.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\App.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial_MarkupCompile.cache
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.g.resources
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb

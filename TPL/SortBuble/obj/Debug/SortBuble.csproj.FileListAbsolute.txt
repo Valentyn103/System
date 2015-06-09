@@ -1,0 +1,6 @@
+C:\Users\valik\Desktop\SortBuble\SortBuble\bin\Debug\SortBuble.exe.config
+C:\Users\valik\Desktop\SortBuble\SortBuble\bin\Debug\SortBuble.exe
+C:\Users\valik\Desktop\SortBuble\SortBuble\bin\Debug\SortBuble.pdb
+C:\Users\valik\Desktop\SortBuble\SortBuble\obj\Debug\SortBuble.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\SortBuble\SortBuble\obj\Debug\SortBuble.exe
+C:\Users\valik\Desktop\SortBuble\SortBuble\obj\Debug\SortBuble.pdb

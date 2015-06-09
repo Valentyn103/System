@@ -1,0 +1,5 @@
+C:\Users\TEMP\Desktop\DeadLock\DeadLock\bin\Debug\DeadLock.exe
+C:\Users\TEMP\Desktop\DeadLock\DeadLock\bin\Debug\DeadLock.pdb
+C:\Users\TEMP\Desktop\DeadLock\DeadLock\obj\Debug\DeadLock.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\DeadLock\DeadLock\obj\Debug\DeadLock.exe
+C:\Users\TEMP\Desktop\DeadLock\DeadLock\obj\Debug\DeadLock.pdb

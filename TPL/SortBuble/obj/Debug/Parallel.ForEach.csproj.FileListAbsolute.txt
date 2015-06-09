@@ -1,0 +1,3 @@
+C:\Users\valik\Desktop\TPL\SortBuble\bin\Debug\SortBuble.exe.config
+C:\Users\valik\Desktop\TPL\SortBuble\obj\Debug\SortBuble.exe
+C:\Users\valik\Desktop\TPL\SortBuble\obj\Debug\SortBuble.pdb
