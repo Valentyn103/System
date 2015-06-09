@@ -10,3 +10,8 @@ C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\FastClick\FastClick\obj\Debug
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\FastClick\FastClick\bin\Debug\FastClick.exe
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\FastClick\FastClick\bin\Debug\FastClick.pdb
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\FastClick\FastClick\obj\Debug\FastClick.csprojResolveAssemblyReference.cache
+C:\Users\valik\Documents\GitHub\System\FastClick\FastClick\bin\Debug\FastClick.exe.config
+C:\Users\valik\Documents\GitHub\System\FastClick\FastClick\bin\Debug\FastClick.exe
+C:\Users\valik\Documents\GitHub\System\FastClick\FastClick\bin\Debug\FastClick.pdb
+C:\Users\valik\Documents\GitHub\System\FastClick\FastClick\obj\Debug\FastClick.exe
+C:\Users\valik\Documents\GitHub\System\FastClick\FastClick\obj\Debug\FastClick.pdb
