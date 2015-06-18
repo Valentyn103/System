@@ -7,3 +7,4 @@ c:\users\temp\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Li
 C:\Users\TEMP\Desktop\Library\Library\bin\Debug\Library.exe.config
 C:\Users\TEMP\Desktop\Library\Library\obj\Debug\Library.exe
 C:\Users\TEMP\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\valik\Documents\GitHub\System\Library\Library\bin\Debug\Library.exe.config

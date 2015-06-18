@@ -19,7 +19,7 @@ namespace FastClick
             stopwatch.Start();
             Console.ReadKey();
             stopwatch.Stop();
-            Console.WriteLine("Time : {0}", stopwatch.Elapsed);
+            Console.WriteLine("Time : {0}", stopwatch.ElapsedMilliseconds);
         }
     }
 }

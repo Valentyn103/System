@@ -20,13 +20,16 @@ namespace ShowString
         {
             ParameterizedThreadStart UserDel = new ParameterizedThreadStart(UserThreadFund);
             Thread UserWorkThread = new Thread(UserDel);
-            UserWorkThread.Start(new List<String> { "a", "b", "c" });
+            UserWorkThread.Start(new List<object> { "a", "b", "c" });
         }
         static void UserThreadFund(object lst)
         {
-            List <String> newlst = lst as List<String>;
-            for (int i = 0; i < newlst.Count; i++)
-                Console.WriteLine(newlst[i].ToString());
+            List<object> newlst = lst as List<object>;
+            if (lst != null)
+            {
+                for (int i = 0; i < newlst.Count; i++)
+                    Console.WriteLine(newlst[i].ToString());
+            }
         }
     }
 }

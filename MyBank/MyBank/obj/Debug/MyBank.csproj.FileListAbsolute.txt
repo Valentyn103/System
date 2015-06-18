@@ -5,3 +5,8 @@ C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\MyBank\MyBank\bin\Debug\MyBan
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\MyBank\MyBank\bin\Debug\MyBank.pdb
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\MyBank\MyBank\obj\Debug\MyBank.exe
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# +\MyBank\MyBank\obj\Debug\MyBank.pdb
+C:\Users\valik\Documents\GitHub\System\MyBank\MyBank\bin\Debug\MyBank.exe.config
+C:\Users\valik\Documents\GitHub\System\MyBank\MyBank\bin\Debug\MyBank.exe
+C:\Users\valik\Documents\GitHub\System\MyBank\MyBank\bin\Debug\MyBank.pdb
+C:\Users\valik\Documents\GitHub\System\MyBank\MyBank\obj\Debug\MyBank.exe
+C:\Users\valik\Documents\GitHub\System\MyBank\MyBank\obj\Debug\MyBank.pdb

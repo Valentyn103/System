@@ -26,10 +26,8 @@ namespace MyBank
         {
             set
             {
-                Thread.Sleep(10);
                 money = value;
-                Thread thread = new Thread(SaveFile);
-                thread.Start();
+Threadsleep()
             }
             get { return money; }
         }
@@ -37,38 +35,39 @@ namespace MyBank
         {
             set
             {
-                Thread.Sleep(10);
                 name = value;
-                Thread thread = new Thread(SaveFile);
-                thread.Start();
+Threadsleep()
             }
             get { return name; }
         }
         public int Percent
         {
             set
-            {
-                Thread.Sleep(10);
+            {  
                 percent = value;
-                Thread thread = new Thread(SaveFile);
-                thread.Start();
+             Threadsleep()
             }
             get { return percent; }
         }
 
-         public Bank(int money, string name, int percent)
-         {
-             Money = money;
-             Name = name;
-             Percent = percent;
-         }
+        public Bank(int money, string name, int percent)
+        {
+            Money = money;
+            Name = name;
+            Percent = percent;
+        }
+        public void Threadsleep()
+        {
+            Thread.Sleep(10);
+            Thread thread = new Thread(SaveFile);
+            thread.Start();
+        }
         public void SaveFile()
         {
-           
             using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"D:\MyBank.txt"))
             {
-                file.WriteLine(Money.ToString() + " | " + Name +" | " + Percent.ToString());
+                file.WriteLine(Money.ToString() + " | " + Name + " | " + Percent.ToString());
             }
         }
-    }     
+    }
 }

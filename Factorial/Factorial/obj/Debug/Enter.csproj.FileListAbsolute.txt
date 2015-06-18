@@ -10,3 +10,4 @@ c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debu
 c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Enter.csproj.GenerateResource.Cache
 c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
 c:\users\temp\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
+C:\Users\valik\Documents\GitHub\System\Factorial\Factorial\bin\Debug\Factorial.exe.config

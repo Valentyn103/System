@@ -11,3 +11,16 @@ c:\users\temp\documents\visual studio 2012\Projects\TreeProcess\TreeProcess\obj\
 c:\users\temp\documents\visual studio 2012\Projects\TreeProcess\TreeProcess\obj\Debug\TreeProcess.csproj.GenerateResource.Cache
 c:\users\temp\documents\visual studio 2012\Projects\TreeProcess\TreeProcess\obj\Debug\TreeProcess.exe
 c:\users\temp\documents\visual studio 2012\Projects\TreeProcess\TreeProcess\obj\Debug\TreeProcess.pdb
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\bin\Debug\TreeProcess.exe.config
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\bin\Debug\TreeProcess.exe
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\bin\Debug\TreeProcess.pdb
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.csprojResolveAssemblyReference.cache
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\MainWindow.baml
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\MainWindow.g.cs
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\App.g.cs
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess_MarkupCompile.cache
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.g.resources
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.Properties.Resources.resources
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.csproj.GenerateResource.Cache
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.exe
+C:\Users\valik\Documents\GitHub\System\TreeProcess\TreeProcess\obj\Debug\TreeProcess.pdb

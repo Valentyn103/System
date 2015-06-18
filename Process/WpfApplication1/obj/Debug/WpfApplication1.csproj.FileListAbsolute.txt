@@ -14,3 +14,4 @@ c:\users\temp\documents\visual studio 2012\Projects\WpfApplication1\WpfApplicati
 C:\Users\TEMP\Desktop\Process\WpfApplication1\bin\Debug\WpfApplication1.exe.config
 C:\Users\TEMP\Desktop\Process\WpfApplication1\obj\Debug\WpfApplication1.exe
 C:\Users\TEMP\Desktop\Process\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\valik\Documents\GitHub\System\Process\WpfApplication1\bin\Debug\WpfApplication1.exe.config
